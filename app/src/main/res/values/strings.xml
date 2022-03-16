@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicketBooking</string>
+    <string name="text_select_time">Select Time</string>
+    <string name="text_select_date">Select Date</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_remind_before">Remind before</string>
+    <string name="seat_not_available">Opps Seat is already booked.</string>
+    <string name="text_seat_not_available">Opps Seat is already booked.</string>
+</resources>
